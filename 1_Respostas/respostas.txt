@@ -1,1 +1,1 @@
-oi
+Destinado as respostas das perguntas referente a disciplina de Sistemas Operacionais Embarcados
